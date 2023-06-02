@@ -1,4 +1,4 @@
-https://bullscin.github.io/lendigCarshering {
+html {
   box-sizing: border-box;
 }
 
@@ -351,7 +351,7 @@ body {
   position: absolute;
   width: 25px;
   height: 25px;
-  background-image: url(/images/video-btn.svg);
+  background-image: url(https://bullscin.github.io/lendigCarshering/images/video-btn.svg);
   top: 12px;
   left: 34px;
 }
